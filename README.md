@@ -1,5 +1,4 @@
-<img src="./cabecalho.png"
-style="width:16.597in;height:5.861in" />
+![Banner do Perfil](./cabecalho.png)
 
 **\#** **Exercícios** **de** **C++** **para** **Fins** **de** **Estudo**
 
